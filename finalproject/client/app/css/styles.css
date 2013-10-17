@@ -1,0 +1,18 @@
+body {
+    padding-top: 70px;
+}
+
+.hidden {
+    display: none;
+}
+
+footer{
+	position: fixed;
+	bottom: 0px;
+	margin: auto;
+	width: 100%;
+	text-align: center;
+	background-color: #3397E8;
+ 	border-color: #000000;
+ 	color: #080808;
+}
